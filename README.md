@@ -10,4 +10,4 @@
 - **Add wieght and tall:** As a `user` can add wieght and height to calculate the right calories  for `user`.
 - **User Exercises:** As a `user` l can see exercies for wieght and target.
 - **User water requirment:** Calculation fo the requirment for wieght and height.
-- **Add Exercises:**  As a `admin` add exercises for users. 
+- **Add Exercises:**  As a `admin` i can add exercises for users. 
